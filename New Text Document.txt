@@ -1,1 +1,3 @@
-First Day of Git and GitHub Class
+First Day of Git and GitHub Class. 
+File modified
+
